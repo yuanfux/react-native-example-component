@@ -6,7 +6,9 @@
 > The `demo` folder contains a standalone Expo project, which can also be used for dev purpose.
 
 > Version Info
+>
 > react-native - 0.57.1
+>
 > react - 16.5.0
 
 1. Start Expo
